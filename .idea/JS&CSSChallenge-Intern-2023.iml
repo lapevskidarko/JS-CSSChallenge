@@ -8,5 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="JavaScript-main" />
+    <orderEntry type="module" module-name="dejan" />
   </component>
 </module>

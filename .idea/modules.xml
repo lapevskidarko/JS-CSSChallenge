@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JS&amp;CSSChallenge-Intern-2023.iml" filepath="$PROJECT_DIR$/.idea/JS&amp;CSSChallenge-Intern-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaScript-main/.idea/JavaScript-main.iml" filepath="$PROJECT_DIR$/../JavaScript-main/.idea/JavaScript-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dejan/.idea/dejan.iml" filepath="$PROJECT_DIR$/../dejan/.idea/dejan.iml" />
     </modules>
   </component>
 </project>
